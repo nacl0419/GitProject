@@ -2,4 +2,4 @@ second
 change something
 
 on branch "master",line1
-on branch "master",line2
+on branch "dev22",line2
