@@ -1,5 +1,5 @@
 second
 change something
 
-on branch "dev2",line1
-on branch "dev2",line2
+on branch "master",line1
+on branch "master",line2
